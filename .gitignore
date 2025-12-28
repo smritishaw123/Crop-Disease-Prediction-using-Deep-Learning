@@ -1,0 +1,5 @@
+*.zip
+*.keras
+*.h5
+Dataset for Crop Pest and Disease Detect*/
+best_mobilenet_model/
